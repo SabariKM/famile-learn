@@ -1,0 +1,418 @@
+.privacy {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.privacy .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1447px;
+  position: relative;
+  width: 1440px;
+}
+
+.privacy .overlap {
+  height: 1077px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.privacy .rectangle {
+  background-color: #fbf9f9;
+  box-shadow: 0px 4px 24px #0000001a;
+  height: 991px;
+  left: 183px;
+  position: absolute;
+  top: 81px;
+  width: 1138px;
+}
+
+.privacy .mask-group {
+  height: 159px;
+  left: 147px;
+  mix-blend-mode: luminosity;
+  position: absolute;
+  top: 918px;
+  width: 145px;
+}
+
+.privacy .img {
+  height: 159px;
+  left: 1210px;
+  mix-blend-mode: luminosity;
+  position: absolute;
+  top: 918px;
+  width: 145px;
+}
+
+.privacy .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 0px 0px 25px 25px;
+  box-shadow: 0px 4px 24px #0000001a;
+  height: 584px;
+  left: 396px;
+  position: absolute;
+  top: 172px;
+  width: 648px;
+}
+
+.privacy .group {
+  height: 386px;
+  left: 452px;
+  position: absolute;
+  top: 317px;
+  width: 568px;
+}
+
+.privacy .group-wrapper {
+  height: 386px;
+}
+
+.privacy .group-2 {
+  height: 386px;
+  position: relative;
+  width: 568px;
+}
+
+.privacy .group-3 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 570px;
+}
+
+.privacy .ellipse {
+  background-color: #141414;
+  border: 1px solid;
+  border-radius: 4px;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.privacy .text-wrapper {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 534px;
+}
+
+.privacy .group-4 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 59px;
+  width: 570px;
+}
+
+.privacy .group-5 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 162px;
+  width: 570px;
+}
+
+.privacy .group-6 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 265px;
+  width: 570px;
+}
+
+.privacy .group-7 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 346px;
+  width: 570px;
+}
+
+.privacy .your-privacy-our {
+  color: #141414;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 32px;
+  font-weight: 400;
+  left: 485px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+  width: 470px;
+}
+
+.privacy .rectangle-3 {
+  background-color: #141414;
+  box-shadow: 0px 4px 24px #756c6a1a;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.privacy .group-8 {
+  height: 88px;
+  left: 118px;
+  position: absolute;
+  top: 7px;
+  width: 129px;
+}
+
+.privacy .group-9 {
+  height: 13px;
+  left: 113px;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+
+.privacy .overlap-group {
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.privacy .overlap-group-wrapper {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 38px;
+  width: 84px;
+}
+
+.privacy .overlap-group-2 {
+  height: 43px;
+  position: relative;
+}
+
+.privacy .mask-group-2 {
+  height: 26px;
+  left: 6px;
+  position: absolute;
+  top: 17px;
+  width: 54px;
+}
+
+.privacy .clip-path-group {
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 84px;
+}
+
+.privacy .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Great Vibes";
+  font-size: 70px;
+  font-weight: 400;
+  height: 88px;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.privacy .div-wrapper {
+  background-color: #141414;
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 1348px;
+  width: 1440px;
+}
+
+.privacy .group-10 {
+  height: 20px;
+  left: 336px;
+  position: relative;
+  top: 39px;
+  width: 773px;
+}
+
+.privacy .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.privacy .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 531px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.privacy .p {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.privacy .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 50px 50px 0px 0px;
+  box-shadow: 0px -4px 24px #0000000d;
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 1245px;
+  width: 1440px;
+}
+
+.privacy .overlap-3 {
+  height: 82px;
+  left: 1212px;
+  position: absolute;
+  top: 8px;
+  width: 68px;
+}
+
+.privacy .rectangle-4 {
+  background-color: #fbfbfb;
+  border-radius: 0px 0px 15px 15px;
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 68px;
+}
+
+.privacy .icon-instagram {
+  height: 32px;
+  left: 18px;
+  position: absolute;
+  top: 18px;
+  width: 32px;
+}
+
+.privacy .text-wrapper-5 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.privacy .overlap-4 {
+  height: 81px;
+  left: 1103px;
+  position: absolute;
+  top: 8px;
+  width: 68px;
+}
+
+.privacy .text-wrapper-6 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 61px;
+}
+
+.privacy .overlap-5 {
+  height: 66px;
+  left: 150px;
+  position: absolute;
+  top: 13px;
+  width: 222px;
+}
+
+.privacy .overlap-wrapper {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 200px;
+}
+
+.privacy .overlap-6 {
+  height: 55px;
+  position: relative;
+  width: 196px;
+}
+
+.privacy .text-wrapper-7 {
+  color: #141414;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 32px;
+  font-weight: 400;
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.privacy .text-wrapper-8 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+}
+
+.privacy .vector {
+  height: 46px;
+  left: 170px;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}

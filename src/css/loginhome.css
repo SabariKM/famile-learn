@@ -1,0 +1,574 @@
+.LOGIN-HOME {
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.LOGIN-HOME .div {
+  background-color: #fafafa;
+  border: 1px none;
+  height: 1160px;
+  position: relative;
+  width: 100%;
+}
+
+.LOGIN-HOME .overlap {
+  height: 1084px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.LOGIN-HOME .rectangle {
+  background-color: #fbf9f9;
+  border-radius: 0px 0px 25px 25px;
+  height: 1002px;
+  left: 150px;
+  position: absolute;
+  top: 82px;
+  width: 1140px;
+}
+
+.LOGIN-HOME .rectangle-2 {
+  background-color: #141414;
+  box-shadow: 0px 4px 24px #756c6a1a;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.LOGIN-HOME .group {
+  height: 76px;
+  left: 126px;
+  position: absolute;
+  top: 13px;
+  width: 121px;
+}
+
+.LOGIN-HOME .img {
+  height: 13px;
+  left: 105px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+
+
+
+
+
+.LOGIN-HOME .frame {
+  align-items: center;
+  background-color: #ffffff;
+  border: 0.5px solid;
+  border-color: #f3f3f3;
+  border-radius: 8px;
+  box-shadow: 6px 6px 24px #0000001a;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 1100px;
+  overflow: hidden;
+  padding: 13px 151px;
+  position: absolute;
+  top: 128px;
+  width: 140px;
+}
+
+.LOGIN-HOME .edit {
+  color: #141414;
+  font-family: "AvertaStd-Bold";
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.36px;
+  line-height: normal;
+  margin-left: -102px;
+  margin-right: -102px;
+  margin-top: -0.5px;
+  position: relative;
+  width: fit-content;
+}
+
+.LOGIN-HOME .group-2 {
+  height: 22px;
+  left: 756px;
+  position: absolute;
+  top: 675px;
+  width: 288px;
+}
+
+.LOGIN-HOME .text-wrapper-2 {
+  color: #727272;
+  font-family: "AvertaStd-Light-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}
+
+.LOGIN-HOME .text-wrapper-3 {
+  color: #727272;
+  font-family: "Palatino Linotype-Regular";
+  font-size: 16px;
+  font-weight: 400;
+  left: 195px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.LOGIN-HOME .text-wrapper-4 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 229px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}
+
+.LOGIN-HOME .group-3 {
+  height: 22px;
+  left: 756px;
+  position: absolute;
+  top: 717px;
+  width: 277px;
+}
+
+.LOGIN-HOME .group-4 {
+  height: 22px;
+  left: 756px;
+  position: absolute;
+  top: 503px;
+  width: 438px;
+}
+
+.LOGIN-HOME .group-5 {
+  height: 22px;
+  left: 756px;
+  position: absolute;
+  top: 633px;
+  width: 358px;
+}
+
+.LOGIN-HOME .group-6 {
+  height: 22px;
+  left: 756px;
+  position: absolute;
+  top: 591px;
+  width: 287px;
+}
+
+.LOGIN-HOME .group-7 {
+  height: 22px;
+  left: 756px;
+  position: absolute;
+  top: 419px;
+  width: 275px;
+}
+
+.LOGIN-HOME .group-8 {
+  height: 22px;
+  left: 756px;
+  position: absolute;
+  top: 461px;
+  width: 302px;
+}
+
+.LOGIN-HOME .group-9 {
+  height: 22px;
+  left: 756px;
+  position: absolute;
+  top: 759px;
+  width: 298px;
+}
+
+.LOGIN-HOME .group-10 {
+  height: 22px;
+  left: 756px;
+  position: absolute;
+  top: 801px;
+  width: 320px;
+}
+
+.LOGIN-HOME .group-11 {
+  height: 22px;
+  left: 756px;
+  position: absolute;
+  top: 843px;
+  width: 273px;
+}
+
+.LOGIN-HOME .rectangle-3 {
+  height: 448px;
+  left: 178px;
+  position: absolute;
+  top: 218px;
+  width: 498px;
+}
+
+.LOGIN-HOME .group-12 {
+  height: 29px;
+  left: 756px;
+  position: absolute;
+  top: 236px;
+  width: 420px;
+}
+
+.LOGIN-HOME .text-wrapper-5 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 229px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.LOGIN-HOME .text-wrapper-6 {
+  color: #727272;
+  font-family: "AvertaStd-Light-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 26px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.LOGIN-HOME .text-wrapper-7 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 26px;
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.LOGIN-HOME .navbar {
+  height: 26px;
+  left: 756px;
+  position: absolute;
+  top: 373px;
+  width: 360px;
+}
+
+.LOGIN-HOME .text-wrapper-8 {
+  color: #727272;
+  font-family: "AvertaStd-Light-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 26px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.LOGIN-HOME .text-wrapper-9 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 26px;
+  left: 195px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.LOGIN-HOME .text-wrapper-10 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 26px;
+  left: 229px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.LOGIN-HOME .text-wrapper-11 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 26px;
+  left: 254px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.LOGIN-HOME .group-13 {
+  height: 26px;
+  left: 756px;
+  position: absolute;
+  top: 285px;
+  width: 411px;
+}
+
+.LOGIN-HOME .group-14 {
+  height: 26px;
+  left: 756px;
+  position: absolute;
+  top: 331px;
+  width: 272px;
+}
+
+.LOGIN-HOME .group-15 {
+  height: 26px;
+  left: 756px;
+  position: absolute;
+  top: 545px;
+  width: 371px;
+}
+
+.LOGIN-HOME .h-1 {
+  color: #141414;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 32px;
+  font-weight: 400;
+  height: 40px;
+  left: 555px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 131px;
+  white-space: nowrap;
+}
+
+.LOGIN-HOME .rectangle-4 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 5px;
+  left: 379px;
+  position: absolute;
+  top: 76px;
+  width: 152px;
+}
+
+
+
+.LOGIN-HOME .group-wrapper {
+  background-color: #141414;
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 1266px;
+  width: 100%;
+}
+
+.LOGIN-HOME .group-16 {
+  height: 20px;
+  left: 336px;
+  position: relative;
+  top: 39px;
+  width: 773px;
+}
+
+.LOGIN-HOME .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.LOGIN-HOME .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 531px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.LOGIN-HOME .your-privacy-our {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.LOGIN-HOME .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 50px 50px 0px 0px;
+  box-shadow: 0px -4px 24px #0000000d;
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 1163px;
+  width: 100%;
+}
+
+.LOGIN-HOME .overlap-3 {
+  height: 82px;
+  left: 1212px;
+  position: absolute;
+  top: 8px;
+  width: 68px;
+}
+
+.LOGIN-HOME .rectangle-5 {
+  background-color: #fbfbfb;
+  border-radius: 0px 0px 15px 15px;
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 68px;
+}
+
+.LOGIN-HOME .icon-instagram {
+  height: 33px;
+  left: 18px;
+  position: absolute;
+  top: 18px;
+  width: 32px;
+}
+
+.LOGIN-HOME .text-wrapper-19 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.LOGIN-HOME .overlap-4 {
+  height: 81px;
+  left: 1103px;
+  position: absolute;
+  top: 8px;
+  width: 68px;
+}
+
+.LOGIN-HOME .text-wrapper-20 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 61px;
+}
+
+.LOGIN-HOME .overlap-5 {
+  height: 66px;
+  left: 150px;
+  position: absolute;
+  top: 13px;
+  width: 222px;
+}
+
+.LOGIN-HOME .overlap-wrapper {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 200px;
+}
+
+.LOGIN-HOME .overlap-6 {
+  height: 55px;
+  position: relative;
+  width: 196px;
+}
+
+.LOGIN-HOME .text-wrapper-21 {
+  color: #141414;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 32px;
+  font-weight: 400;
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.LOGIN-HOME .text-wrapper-22 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+}
+
+.LOGIN-HOME .vector {
+  height: 46px;
+  left: 170px;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.LOGIN-HOME .group-body{
+  position: absolute;
+  left: 10vw;
+}

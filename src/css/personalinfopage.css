@@ -1,0 +1,912 @@
+.personal-info-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.personal-info-page .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1573px;
+  position: relative;
+  width: 1440px;
+}
+
+.personal-info-page .text-wrapper {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 14px;
+  left: 871px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: absolute;
+  text-align: center;
+  top: 213px;
+  white-space: nowrap;
+  width: 268px;
+}
+
+.personal-info-page .h-1 {
+  color: #141414;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 32px;
+  font-weight: 400;
+  height: 40px;
+  left: 847px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 165px;
+  width: 317px;
+}
+
+.personal-info-page .group {
+  height: 941px;
+  left: 765px;
+  position: absolute;
+  top: 260px;
+  width: 483px;
+}
+
+.personal-info-page .overlap-group-wrapper {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 64px;
+  width: 482px;
+}
+
+.personal-info-page .overlap-group {
+  border: 0.8px solid;
+  border-color: #14141433;
+  border-radius: 4px;
+  height: 48px;
+  position: relative;
+  width: 480px;
+}
+
+.personal-info-page .text-wrapper-2 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 14px;
+  font-weight: 400;
+  height: 14px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.personal-info-page .div-wrapper {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 482px;
+}
+
+.personal-info-page .overlap {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 704px;
+  width: 482px;
+}
+
+.personal-info-page .text-wrapper-3 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 14px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.personal-info-page .vector {
+  height: 8px;
+  left: 443px;
+  position: absolute;
+  top: 20px;
+  width: 14px;
+}
+
+.personal-info-page .overlap-2 {
+  height: 48px;
+  left: 1px;
+  position: absolute;
+  top: 640px;
+  width: 482px;
+}
+
+.personal-info-page .text-wrapper-4 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 14px;
+  font-weight: 400;
+  height: 14px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.personal-info-page .img {
+  height: 8px;
+  left: 442px;
+  position: absolute;
+  top: 20px;
+  width: 14px;
+}
+
+.personal-info-page .overlap-3 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 576px;
+  width: 482px;
+}
+
+.personal-info-page .vector-2 {
+  height: 8px;
+  left: 443px;
+  position: absolute;
+  top: 23px;
+  width: 14px;
+}
+
+.personal-info-page .overlap-4 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 768px;
+  width: 482px;
+}
+
+.personal-info-page .overlap-5 {
+  border: 0.8px solid;
+  border-color: #14141433;
+  border-radius: 4px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 893px;
+  width: 480px;
+}
+
+.personal-info-page .vector-3 {
+  height: 8px;
+  left: 442px;
+  position: absolute;
+  top: 19px;
+  width: 14px;
+}
+
+.personal-info-page .overlap-6 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 831px;
+  width: 482px;
+}
+
+.personal-info-page .overlap-wrapper {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 320px;
+  width: 480px;
+}
+
+.personal-info-page .overlap-7 {
+  height: 48px;
+  position: relative;
+  width: 482px;
+}
+
+.personal-info-page .group-2 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 128px;
+  width: 480px;
+}
+
+.personal-info-page .group-3 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 448px;
+  width: 480px;
+}
+
+.personal-info-page .group-4 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 256px;
+  width: 480px;
+}
+
+.personal-info-page .text-wrapper-5 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 14px;
+  font-weight: 400;
+  height: 14px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+  width: 136px;
+}
+
+.personal-info-page .group-5 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 512px;
+  width: 480px;
+}
+
+.personal-info-page .text-wrapper-6 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 14px;
+  font-weight: 400;
+  height: 14px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.personal-info-page .group-6 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 384px;
+  width: 480px;
+}
+
+.personal-info-page .text-wrapper-7 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 14px;
+  font-weight: 400;
+  height: 14px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.personal-info-page .group-7 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 192px;
+  width: 480px;
+}
+
+.personal-info-page .mask-group {
+  height: 18px;
+  left: 440px;
+  position: absolute;
+  top: 14px;
+  width: 16px;
+}
+
+.personal-info-page .group-wrapper {
+  height: 48px;
+  left: 845px;
+  position: absolute;
+  top: 1268px;
+  width: 320px;
+}
+
+.personal-info-page .group-8 {
+  height: 48px;
+  width: 322px;
+}
+
+.personal-info-page .overlap-group-2 {
+  background-color: #141414;
+  border-radius: 8px;
+  box-shadow: 12px 12px 65px #0000001a;
+  height: 48px;
+  position: relative;
+  width: 320px;
+}
+
+.personal-info-page .text-wrapper-8 {
+  color: #f5f5f5;
+  font-family: "AvertaStd-Bold";
+  font-size: 18px;
+  font-weight: 400;
+  height: 22px;
+  left: 126px;
+  letter-spacing: 0.36px;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+}
+
+.personal-info-page .overlap-8 {
+  height: 95px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.personal-info-page .rectangle {
+  background-color: #141414;
+  box-shadow: 0px 4px 24px #756c6a1a;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.personal-info-page .group-9 {
+  height: 88px;
+  left: 118px;
+  position: absolute;
+  top: 7px;
+  width: 129px;
+}
+
+.personal-info-page .group-10 {
+  height: 13px;
+  left: 113px;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+
+.personal-info-page .overlap-9 {
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.personal-info-page .group-11 {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 38px;
+  width: 84px;
+}
+
+.personal-info-page .overlap-group-3 {
+  height: 43px;
+  position: relative;
+}
+
+.personal-info-page .mask-group-2 {
+  height: 26px;
+  left: 6px;
+  position: absolute;
+  top: 17px;
+  width: 54px;
+}
+
+.personal-info-page .clip-path-group {
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 84px;
+}
+
+.personal-info-page .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Great Vibes";
+  font-size: 70px;
+  font-weight: 400;
+  height: 88px;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.personal-info-page .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 5px;
+  left: 379px;
+  position: absolute;
+  top: 76px;
+  width: 152px;
+}
+
+.personal-info-page .navbar {
+  height: 29px;
+  left: 407px;
+  position: absolute;
+  top: 33px;
+  width: 893px;
+}
+
+.personal-info-page .text-wrapper-10 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.personal-info-page .text-wrapper-11 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.personal-info-page .text-wrapper-12 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 823px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.personal-info-page .text-wrapper-13 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 379px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.personal-info-page .text-wrapper-14 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 566px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.personal-info-page .group-12 {
+  height: 71px;
+  left: 389px;
+  position: absolute;
+  top: 657px;
+  width: 129px;
+}
+
+.personal-info-page .overlap-10 {
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 89px;
+}
+
+.personal-info-page .mask-group-3 {
+  height: 43px;
+  left: 7px;
+  position: absolute;
+  top: 28px;
+  width: 62px;
+}
+
+.personal-info-page .clip-path-group-2 {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 89px;
+}
+
+.personal-info-page .vector-4 {
+  height: 7px;
+  left: 105px;
+  position: absolute;
+  top: 7px;
+  width: 6px;
+}
+
+.personal-info-page .vector-5 {
+  height: 8px;
+  left: 120px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.personal-info-page .vector-6 {
+  height: 6px;
+  left: 109px;
+  position: absolute;
+  top: 19px;
+  width: 7px;
+}
+
+.personal-info-page .clip-path-group-3 {
+  height: 5px;
+  left: 122px;
+  position: absolute;
+  top: 21px;
+  width: 7px;
+}
+
+.personal-info-page .vector-7 {
+  height: 9px;
+  left: 97px;
+  position: absolute;
+  top: 24px;
+  width: 7px;
+}
+
+.personal-info-page .vector-8 {
+  height: 6px;
+  left: 105px;
+  position: absolute;
+  top: 32px;
+  width: 7px;
+}
+
+.personal-info-page .vector-9 {
+  height: 9px;
+  left: 91px;
+  position: absolute;
+  top: 35px;
+  width: 7px;
+}
+
+.personal-info-page .overlap-11 {
+  height: 405px;
+  left: 173px;
+  position: absolute;
+  top: 160px;
+  width: 523px;
+}
+
+.personal-info-page .vector-10 {
+  height: 111px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 125px;
+}
+
+.personal-info-page .rectangle-3 {
+  height: 403px;
+  left: 38px;
+  position: absolute;
+  top: 2px;
+  width: 485px;
+}
+
+.personal-info-page .group-13 {
+  border: 1px solid;
+  border-color: #141414;
+  border-radius: 8px;
+  box-shadow: 12px 12px 65px #00000033;
+  height: 48px;
+  left: 293px;
+  position: absolute;
+  top: 568px;
+  width: 320px;
+}
+
+.personal-info-page .group-14 {
+  height: 22px;
+  left: 109px;
+  position: relative;
+  top: 12px;
+  width: 101px;
+}
+
+.personal-info-page .text-wrapper-15 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 14px;
+  font-weight: 400;
+  height: 22px;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.personal-info-page .group-15 {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.personal-info-page .overlap-12 {
+  height: 15px;
+  position: relative;
+}
+
+.personal-info-page .group-16 {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.personal-info-page .overlap-group-4 {
+  height: 16px;
+  left: -1px;
+  position: relative;
+}
+
+.personal-info-page .group-17 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.personal-info-page .rectangle-4 {
+  background-color: #ffffff;
+  height: 7px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.personal-info-page .group-18 {
+  height: 5px;
+  left: 15px;
+  position: absolute;
+  top: 1px;
+  width: 5px;
+}
+
+.personal-info-page .overlap-13 {
+  background-color: #141414;
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 1474px;
+  width: 1440px;
+}
+
+.personal-info-page .group-19 {
+  height: 20px;
+  left: 336px;
+  position: relative;
+  top: 39px;
+  width: 773px;
+}
+
+.personal-info-page .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.personal-info-page .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 531px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.personal-info-page .your-privacy-our {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.personal-info-page .overlap-14 {
+  background-color: #ffffff;
+  border-radius: 50px 50px 0px 0px;
+  box-shadow: 0px -4px 24px #0000000d;
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 1371px;
+  width: 1440px;
+}
+
+.personal-info-page .overlap-15 {
+  height: 82px;
+  left: 1212px;
+  position: absolute;
+  top: 8px;
+  width: 68px;
+}
+
+.personal-info-page .rectangle-5 {
+  background-color: #fbfbfb;
+  border-radius: 0px 0px 15px 15px;
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 68px;
+}
+
+.personal-info-page .icon-instagram {
+  height: 32px;
+  left: 18px;
+  position: absolute;
+  top: 18px;
+  width: 32px;
+}
+
+.personal-info-page .text-wrapper-18 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.personal-info-page .overlap-16 {
+  height: 81px;
+  left: 1103px;
+  position: absolute;
+  top: 8px;
+  width: 68px;
+}
+
+.personal-info-page .text-wrapper-19 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 61px;
+}
+
+.personal-info-page .overlap-17 {
+  height: 66px;
+  left: 150px;
+  position: absolute;
+  top: 13px;
+  width: 222px;
+}
+
+.personal-info-page .group-20 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 200px;
+}
+
+.personal-info-page .overlap-18 {
+  height: 55px;
+  position: relative;
+  width: 196px;
+}
+
+.personal-info-page .text-wrapper-20 {
+  color: #141414;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 32px;
+  font-weight: 400;
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.personal-info-page .text-wrapper-21 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+}
+
+.personal-info-page .vector-11 {
+  height: 46px;
+  left: 170px;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
