@@ -1,0 +1,494 @@
+.SUBCSCRIPTION {
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.SUBCSCRIPTION .div {
+  background-color: #fafafa;
+  border: 1px none;
+  height: 893px;
+  position: relative;
+  width: 1440px;
+}
+
+.SUBCSCRIPTION .overlap {
+  height: 671px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.SUBCSCRIPTION .rectangle {
+  background-color: #fbf9f9;
+  border-radius: 0px 0px 25px 25px;
+  height: 594px;
+  left: 150px;
+  position: absolute;
+  top: 77px;
+  width: 1140px;
+}
+
+.SUBCSCRIPTION .rectangle-2 {
+  background-color: #141414;
+  box-shadow: 0px 4px 24px #756c6a1a;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.SUBCSCRIPTION .group {
+  height: 76px;
+  left: 126px;
+  position: absolute;
+  top: 13px;
+  width: 121px;
+}
+
+.SUBCSCRIPTION .img {
+  height: 13px;
+  left: 105px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.SUBCSCRIPTION .overlap-group {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 94px;
+}
+
+.SUBCSCRIPTION .overlap-group-wrapper {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 76px;
+}
+
+.SUBCSCRIPTION .overlap-group-2 {
+  height: 40px;
+  position: relative;
+}
+
+.SUBCSCRIPTION .mask-group {
+  height: 24px;
+  left: 6px;
+  position: absolute;
+  top: 16px;
+  width: 49px;
+}
+
+.SUBCSCRIPTION .clip-path-group {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.SUBCSCRIPTION .text-wrapper {
+  color: #ffffff;
+  font-family: "Great Vibes";
+  font-size: 60px;
+  font-weight: 400;
+  height: 75px;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.SUBCSCRIPTION .group-2 {
+  height: 205px;
+  left: 562px;
+  position: absolute;
+  top: 128px;
+  width: 278px;
+}
+
+.SUBCSCRIPTION .h-1 {
+  color: #141414;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 32px;
+  font-weight: 400;
+  height: 40px;
+  left: 61px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.SUBCSCRIPTION .group-3 {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 276px;
+}
+
+.SUBCSCRIPTION .group-4 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 282px;
+}
+
+.SUBCSCRIPTION .text-wrapper-2 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}
+
+.SUBCSCRIPTION .text-wrapper-3 {
+  color: #727272;
+  font-family: "AvertaStd-Light-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}
+
+.SUBCSCRIPTION .text-wrapper-4 {
+  color: #727272;
+  font-family: "Palatino Linotype-Regular";
+  font-size: 16px;
+  font-weight: 400;
+  left: 156px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.SUBCSCRIPTION .group-5 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 282px;
+}
+
+.SUBCSCRIPTION .group-6 {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 84px;
+  width: 221px;
+}
+
+.SUBCSCRIPTION .group-7 {
+  height: 47px;
+  left: 569px;
+  position: absolute;
+  top: 33px;
+  width: 723px;
+}
+
+.SUBCSCRIPTION .rectangle-3 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 152px;
+}
+
+.SUBCSCRIPTION .text-wrapper-5 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 661px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.SUBCSCRIPTION .navbar {
+  height: 29px;
+  left: 407px;
+  position: absolute;
+  top: 33px;
+  width: 893px;
+}
+
+.SUBCSCRIPTION .text-wrapper-6 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.SUBCSCRIPTION .text-wrapper-7 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.SUBCSCRIPTION .text-wrapper-8 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 823px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.SUBCSCRIPTION .text-wrapper-9 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 379px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.SUBCSCRIPTION .text-wrapper-10 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 566px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.SUBCSCRIPTION .group-wrapper {
+  background-color: #141414;
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 794px;
+  width: 1440px;
+}
+
+.SUBCSCRIPTION .group-8 {
+  height: 20px;
+  left: 336px;
+  position: relative;
+  top: 39px;
+  width: 773px;
+}
+
+.SUBCSCRIPTION .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.SUBCSCRIPTION .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 531px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.SUBCSCRIPTION .your-privacy-our {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.SUBCSCRIPTION .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 50px 50px 0px 0px;
+  box-shadow: 0px -4px 24px #0000000d;
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 691px;
+  width: 1440px;
+}
+
+.SUBCSCRIPTION .overlap-3 {
+  height: 82px;
+  left: 1212px;
+  position: absolute;
+  top: 8px;
+  width: 68px;
+}
+
+.SUBCSCRIPTION .rectangle-4 {
+  background-color: #fbfbfb;
+  border-radius: 0px 0px 15px 15px;
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 68px;
+}
+
+.SUBCSCRIPTION .icon-instagram {
+  height: 32px;
+  left: 18px;
+  position: absolute;
+  top: 18px;
+  width: 33px;
+}
+
+.SUBCSCRIPTION .text-wrapper-13 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.SUBCSCRIPTION .overlap-4 {
+  height: 81px;
+  left: 1103px;
+  position: absolute;
+  top: 8px;
+  width: 68px;
+}
+
+.SUBCSCRIPTION .text-wrapper-14 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 61px;
+}
+
+.SUBCSCRIPTION .overlap-5 {
+  height: 66px;
+  left: 150px;
+  position: absolute;
+  top: 13px;
+  width: 222px;
+}
+
+.SUBCSCRIPTION .overlap-wrapper {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 200px;
+}
+
+.SUBCSCRIPTION .overlap-6 {
+  height: 55px;
+  position: relative;
+  width: 196px;
+}
+
+.SUBCSCRIPTION .text-wrapper-15 {
+  color: #141414;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 32px;
+  font-weight: 400;
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.SUBCSCRIPTION .text-wrapper-16 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+}
+
+.SUBCSCRIPTION .vector {
+  height: 46px;
+  left: 170px;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}

@@ -1,0 +1,187 @@
+.LOGIN{
+  position: relative;
+  display: block;
+}
+
+.LOGIN .first-block-left{
+  width: 100%;
+}
+
+.LOGIN .first-block-left{
+  width: 100%;
+}
+
+.LOGIN .login-left{
+  width: 505px;
+  position: relative;
+  height: 485px;
+  top:150px;
+}
+.LOGIN .rectangle{
+  background-color: #F4F4F4;
+  border-radius: 10px 10px 25px 25px;
+  box-shadow: 0px 4px 24px #0000001a;
+}
+.LOGIN .rectangle0{
+  height: 20px;
+  left: 0;
+  top: 96%;
+  width: 100%;
+  position: absolute;
+}
+.LOGIN .rectangle1{
+  height: 480px !important;
+  left: 0;
+  top: 0;
+  width: 100%;
+  position: absolute;
+  border: 1px solid #e6e6e6;
+}
+.LOGIN .rectangle2{
+  height: 20px;
+  width: 90%;
+  position: absolute;
+  top: 97%;
+  left: 5%;
+  border: 1px solid #e6e6e6;
+}
+.LOGIN .rectangle3{
+  height: 20px;
+  width: 80%;
+  position: absolute;
+  top: 99%;
+  left: 10%;
+}
+.LOGIN .rectangle4{
+  height: 20px;
+  width: 70%;
+  position: absolute;
+  top: 101%;
+  left: 15%;
+}
+.registerInputField input {
+  width: 87% !important;
+}
+.LOGIN .login-right{
+  margin: 50px;
+  position: relative;
+  display: block;
+}
+.inputField {
+  position: relative;
+}
+.inputField input, .inputField select {
+  padding-left: 58px !important;
+  /* display: inline-block; */
+  height: 48px;
+}
+.phoneField::before {
+  content: '';
+  background-image: url('../assets/img/signup/phone-icon.svg');
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  background-position: center;
+  border-right: 1px solid #E6E6E6;
+}
+.passwordField::before {
+  content: '';
+  background-image: url('../assets/img/signup/password-icon.svg');
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  background-position: center;
+  border-right: 1px solid #E6E6E6;
+}
+
+@media screen and (min-width: 350px) {
+  .LOGIN .login-right{
+    margin: 50px;
+    margin-top: 300px;
+    position: relative;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .loginHead {
+    font-size: 48px !important;
+    font-weight: 600 !important;
+  }
+  .LOGIN .login-left{
+    top: 100px;
+  }
+  .registerInputField input {
+    width: 116% !important;
+  }
+  .LOGIN .rectangle1 {
+    height: 445px !important;
+  }
+  .LOGIN .rectangle2 {
+    top: 90% !important;
+  }
+  .LOGIN .rectangle3 {
+    top: 92% !important;
+  }
+  .LOGIN .rectangle4 {
+    top: 94% !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .LOGIN .login-left {
+    width: 560px;
+  }
+  .LOGIN .rectangle1 {
+    height: 500px;
+  }
+  .LOGIN .rectangle2 {
+    top: 98%;
+  }
+  .LOGIN .rectangle3 {
+    top: 101%;
+  }
+  .LOGIN .rectangle4 {
+    top: 104%;
+  }
+  .registerInputField input {
+    display: inline-block;
+    width: 95%;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .LOGIN .login-right{
+    margin: 50px;
+    margin-top: 300px;
+    margin-left: 250px;
+    position: relative;
+    display: block;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .registerInputField input {
+    width: 84%;
+    height: 48px;
+  }
+  .registerInputSelect select, .registerInputSelect input {
+    width: 125%;
+    height: 48px;
+  }
+  .lg-text {
+    font-size: 14px !important;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .LOGIN .login-right{
+    margin: 50px;
+    position: relative;
+    display: block;
+  }
+}

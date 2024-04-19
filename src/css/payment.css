@@ -1,0 +1,687 @@
+.payment {
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.payment .div {
+  background-color: #fafafa;
+  border: 1px none;
+  height: 1707px;
+  position: relative;
+  width: 1440px;
+}
+
+.payment .overlap {
+  height: 1348px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.payment .rectangle {
+  background-color: #fbf9f9;
+  border-radius: 0px 0px 25px 25px;
+  height: 1348px;
+  left: 149px;
+  position: absolute;
+  top: 0;
+  width: 1143px;
+}
+
+.payment .rectangle-2 {
+  background-color: #141414;
+  box-shadow: 0px 4px 24px #756c6a1a;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.payment .group {
+  height: 88px;
+  left: 118px;
+  position: absolute;
+  top: 7px;
+  width: 129px;
+}
+
+.payment .img {
+  height: 13px;
+  left: 113px;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+
+.payment .overlap-group {
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.payment .overlap-group-wrapper {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 38px;
+  width: 84px;
+}
+
+.payment .overlap-group-2 {
+  height: 43px;
+  position: relative;
+}
+
+.payment .mask-group {
+  height: 26px;
+  left: 6px;
+  position: absolute;
+  top: 17px;
+  width: 54px;
+}
+
+.payment .clip-path-group {
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 84px;
+}
+
+.payment .text-wrapper {
+  color: #ffffff;
+  font-family: "Great Vibes";
+  font-size: 70px;
+  font-weight: 400;
+  height: 88px;
+  left: 33px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.payment .rectangle-3 {
+  background-color: #fafafa;
+  box-shadow: 0px 4px 24px #0000001a;
+  height: 991px;
+  left: 151px;
+  position: absolute;
+  top: 81px;
+  width: 1138px;
+}
+
+.payment .rectangle-4 {
+  background-color: #ffffff;
+  box-shadow: 0px 4px 24px #0000001a;
+  height: 569px;
+  left: 408px;
+  position: absolute;
+  top: 188px;
+  width: 648px;
+}
+
+.payment .mask-group-2 {
+  height: 159px;
+  left: 115px;
+  mix-blend-mode: luminosity;
+  position: absolute;
+  top: 918px;
+  width: 145px;
+}
+
+.payment .mask-group-3 {
+  height: 159px;
+  left: 1178px;
+  mix-blend-mode: luminosity;
+  position: absolute;
+  top: 918px;
+  width: 145px;
+}
+
+.payment .group-2 {
+  height: 40px;
+  left: 601px;
+  position: absolute;
+  top: 582px;
+  width: 263px;
+}
+
+.payment .group-3 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 155px;
+}
+
+.payment .h-1 {
+  color: #141414;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 32px;
+  font-weight: 400;
+  height: 40px;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.payment .text-wrapper-2 {
+  color: #141414;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 32px;
+  font-weight: 400;
+  height: 40px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.payment .text-wrapper-3 {
+  color: #727272;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 161px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.payment .frame {
+  align-items: center;
+  background-color: #141414;
+  border-radius: 8px;
+  box-shadow: 12px 12px 65px #0000001a;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 560px;
+  overflow: hidden;
+  padding: 13px 125px;
+  position: absolute;
+  top: 669px;
+  width: 320px;
+}
+
+.payment .text-wrapper-4 {
+  color: #f5f5f5;
+  font-family: "AvertaStd-Bold";
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.36px;
+  line-height: normal;
+  margin-left: -16px;
+  margin-right: -16px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.payment .group-4 {
+  height: 290px;
+  left: 489px;
+  position: absolute;
+  top: 228px;
+  width: 539px;
+}
+
+.payment .p {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 32px;
+  letter-spacing: 0.64px;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.payment .text-wrapper-5 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 32px;
+  letter-spacing: 0.64px;
+  line-height: 20px;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+}
+
+.payment .text-wrapper-6 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 32px;
+  letter-spacing: 0.64px;
+  line-height: 20px;
+  position: absolute;
+  top: 90px;
+  white-space: nowrap;
+}
+
+.payment .email-notifications {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 32px;
+  letter-spacing: 0.64px;
+  line-height: 20px;
+  position: absolute;
+  top: 135px;
+  white-space: nowrap;
+}
+
+.payment .text-wrapper-7 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 32px;
+  letter-spacing: 0.64px;
+  line-height: 20px;
+  position: absolute;
+  top: 180px;
+  white-space: nowrap;
+}
+
+.payment .text-wrapper-8 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 32px;
+  letter-spacing: 0.64px;
+  line-height: 20px;
+  position: absolute;
+  top: 225px;
+  white-space: nowrap;
+}
+
+.payment .text-wrapper-9 {
+  color: #141414;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 32px;
+  letter-spacing: 0.64px;
+  line-height: 20px;
+  position: absolute;
+  top: 270px;
+  white-space: nowrap;
+}
+
+.payment .div-wrapper {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.payment .overlap-group-3 {
+  border-radius: 8px;
+  height: 16px;
+  position: relative;
+}
+
+.payment .vector {
+  height: 7px;
+  left: 3px;
+  position: absolute;
+  top: 5px;
+  width: 10px;
+}
+
+.payment .ellipse {
+  border: 1.5px solid;
+  border-color: #141414;
+  border-radius: 8px;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.payment .overlap-wrapper {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 47px;
+  width: 16px;
+}
+
+.payment .group-5 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 92px;
+  width: 16px;
+}
+
+.payment .group-6 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 137px;
+  width: 16px;
+}
+
+.payment .group-7 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 182px;
+  width: 16px;
+}
+
+.payment .group-8 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 227px;
+  width: 16px;
+}
+
+.payment .group-9 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 272px;
+  width: 16px;
+}
+
+.payment .group-10 {
+  height: 207px;
+  left: 361px;
+  position: absolute;
+  top: 979px;
+  width: 719px;
+}
+
+.payment .rectangle-5 {
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 5px;
+  left: 569px;
+  position: absolute;
+  top: 76px;
+  width: 152px;
+}
+
+.payment .navbar {
+  height: 29px;
+  left: 407px;
+  position: absolute;
+  top: 33px;
+  width: 893px;
+}
+
+.payment .text-wrapper-10 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.payment .text-wrapper-11 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.payment .text-wrapper-12 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 823px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.payment .text-wrapper-13 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 379px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.payment .text-wrapper-14 {
+  color: #fdfdfd;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 18px;
+  font-weight: 400;
+  height: 29px;
+  left: 566px;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.payment .group-wrapper {
+  background-color: #141414;
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 1608px;
+  width: 1440px;
+}
+
+.payment .group-11 {
+  height: 20px;
+  left: 336px;
+  position: relative;
+  top: 39px;
+  width: 773px;
+}
+
+.payment .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.payment .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 531px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.payment .your-privacy-our {
+  color: #ffffff;
+  font-family: "AvertaStd-Semibold-☞";
+  font-size: 16px;
+  font-weight: 400;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.payment .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 50px 50px 0px 0px;
+  box-shadow: 0px -4px 24px #0000000d;
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 1505px;
+  width: 1440px;
+}
+
+.payment .overlap-3 {
+  height: 82px;
+  left: 1212px;
+  position: absolute;
+  top: 8px;
+  width: 68px;
+}
+
+.payment .rectangle-6 {
+  background-color: #fbfbfb;
+  border-radius: 0px 0px 15px 15px;
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 68px;
+}
+
+.payment .icon-instagram {
+  height: 32px;
+  left: 18px;
+  position: absolute;
+  top: 18px;
+  width: 32px;
+}
+
+.payment .text-wrapper-17 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+}
+
+.payment .overlap-4 {
+  height: 81px;
+  left: 1103px;
+  position: absolute;
+  top: 8px;
+  width: 68px;
+}
+
+.payment .text-wrapper-18 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 61px;
+}
+
+.payment .overlap-5 {
+  height: 66px;
+  left: 150px;
+  position: absolute;
+  top: 13px;
+  width: 222px;
+}
+
+.payment .group-12 {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 200px;
+}
+
+.payment .overlap-6 {
+  height: 55px;
+  position: relative;
+  width: 196px;
+}
+
+.payment .text-wrapper-19 {
+  color: #464243;
+  font-family: "AvertaStd-Regular-☞";
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+}
+
+.payment .vector-2 {
+  height: 46px;
+  left: 170px;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
